@@ -2,10 +2,10 @@
 # The following Repo was For my Comp Simulations final project
 
 # GROUP MEMBERS
-John Gachihi
-Hellen Kokach
-Miriam Mmboga
-Moses Karanja - 93985
+ # John Gachihi
+ # Hellen Kokach
+ # Miriam Mmboga
+ # Moses Karanja - 93985
 
 # The question is as shown below
 
